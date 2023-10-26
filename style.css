@@ -4,4 +4,12 @@
     --azul: #167BF7;
     --fundo: #00030C;
 }
-<body
+
+body{
+    background-color: var(--fundo); 
+    color: var(--branco);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
