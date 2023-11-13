@@ -21,3 +21,11 @@ body{
     height: 100vh;
     background-size: contain;
 }
+
+.container__botao{
+    background-color: var(--azul);
+    border-radius: 5px;
+    padding: 1em;
+    display: block;
+    color: var(--branco);
+}
